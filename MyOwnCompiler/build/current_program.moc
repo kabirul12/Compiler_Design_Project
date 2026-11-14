@@ -1,0 +1,15 @@
+// Welcome to MyOwnCompiler Studio
+// Write your MyOwnCompiler code and press Run (F5).
+
+purno a = 10;
+purno b = 20;
+purno result = Jog(a, b);
+lekha msg = "I love you";
+Dekhao (msg);
+Dekhao(result) ;
+
+doshomik average = Gor(a, b);
+Dekhao(average);
+
+lekha message = "Welcome to MyOwnCompiler";
+Dekhao(message);

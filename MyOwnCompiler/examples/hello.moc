@@ -1,0 +1,11 @@
+// MyOwnCompiler first program
+purno a = 10;
+purno b = 20;
+purno result = Jog(a, b);
+Dekhao(result);
+
+doshomik average = Gor(a, b);
+Dekhao(average);
+
+lekha message = "Welcome to MyOwnCompiler";
+Dekhao(message);

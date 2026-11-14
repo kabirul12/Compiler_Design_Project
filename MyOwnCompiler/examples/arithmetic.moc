@@ -1,0 +1,14 @@
+purno x = 50;
+purno y = 25;
+
+Dekhao(Jog(x, y));
+Dekhao(Biyog(x, y));
+Dekhao(Gun(x, y));
+Dekhao(Vag(x, y));
+Dekhao(Vagsesh(x, y));
+Dekhao(Ghat(2, 5));
+Dekhao(Borgomul(81));
+Dekhao(Porom(-12));
+Dekhao(Boro(x, y));
+Dekhao(Choto(x, y));
+Dekhao(Gunfol(5));
